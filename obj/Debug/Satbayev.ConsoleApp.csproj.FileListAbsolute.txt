@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe.config
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.pdb
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.exe
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.pdb
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.BEL.dll
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.dll
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\LiteDB.dll
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.BEL.pdb
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.pdb
+C:\Users\User\source\repos\Satbayev.ConsoleApp\bin\Debug\LiteDB.xml
+C:\Users\User\source\repos\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CopyComplete
